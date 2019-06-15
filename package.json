@@ -1,10 +1,11 @@
 {
-  "name": "node-zstandard",
+  "name": "@antcube/node-zstandard",
   "version": "1.2.4",
-  "description": "Node.js interface to Zstandard (zstd)",
+  "description": "Node.js interface to Zstandard (zstd-1.1.2)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload": "npm publish --access=public"
   },
   "repository": {
     "type": "git",
