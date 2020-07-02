@@ -120,3 +120,8 @@ zstd.decompressionStreamFromFile ('./test', (err, result) => {
 
 ## License
 Apache 2.0
+
+## Cube
+重新编译zstd
+> https://github.com/shawnt22/zstd
+在工程根目录下执行 make ,得到构建产物 zstd 文件
